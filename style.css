@@ -1,0 +1,42 @@
+body{
+    background-color: #212529;
+}
+.navbar{
+    color: white;
+}
+td{
+    padding: 40px;
+}
+
+.form-control
+{
+   width:100%;
+}
+.choose_file{
+    width:70%;
+}
+.form_container{
+    display: flex;
+  justify-content: space-between;
+  margin-left:34%;
+  margin-right:28%;
+ 
+}
+@media (max-width: 800px) {
+  .form_container {
+    flex-direction: column;
+    justify-content: space-between;
+    flex-wrap:wrap;
+  }
+ }
+@media (max-width: 825px) {
+  .choose_file{
+    width:19%;
+  }
+ }
+
+ .form-center{
+  position: relative;
+    display: flex;
+    justify-content: center;
+}
