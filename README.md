@@ -7,5 +7,5 @@
 
 ## How To Use It :
 
-> * Step
+> * Step <
 ![Screenshot (2)](https://user-images.githubusercontent.com/110400753/214080398-524478b6-40f5-4492-a9ec-0b2b01b37106.png)
